@@ -13,7 +13,7 @@ Estou em transição da administração de sistemas Linux para Engenharia DevOps
 - 🤖 **Foco em automação** - de scripts shell a ferramentas Python
 - 🔄 **Aprendendo:** Docker, Kubernetes, Terraform,
 - 🎯 **Objetivo:** Vagas júnior DevOps/SRE em empresas remote-first
-- 🎨 **Hobbies:** Desenho em pastel e carvão, guitarra, flauta
+- 🎨 **Hobbies:** Desenho em pastel e carvão, guitarra, flauta, leitura ao vivo de livros e voice over
 
 ---
 

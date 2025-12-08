@@ -35,6 +35,10 @@ Estou em transição da administração de sistemas Linux para Engenharia DevOps
 
 ## 📌 Projetos em Destaque
 
+### ✅ [adhd-time-tracker-bash](https://github.com/lcnjrj/adhd-time-tracker-bash)
+Sistema de rastreamento de tarefas para pessoas com ADHD/TDAH 🧠 - suporta atividades offline com SQLite e iCalendar
+ **Tech:** Shell, SQLite
+
 ### 🤖 [Terminal de Curiosidades com Gemini](https://github.com/lcnjrj/imersao-dev-gemini-projeto-curiosidades)
 Aplicação backend integrando a API Gemini do Google para gerar conteúdo dinâmico. Construída com Node.js, demonstra manipulação de APIs, operações assíncronas e arquitetura cliente-servidor.  
 **Tech:** Node.js, Gemini API, JavaScript

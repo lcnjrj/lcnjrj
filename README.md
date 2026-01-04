@@ -35,6 +35,10 @@ Estou em transição da administração de sistemas Linux para Engenharia DevOps
 
 ## 📌 Projetos em Destaque
 
+### ✅ [Productivity Monitor - Sistema de Monitoramento Automático de Produtividade-bash](https://github.com/lcnjrj/ProductivityMonitor)
+Rastreamento inteligente automático de atividades em Linux/LXQt com detecção de abas de navegadores, geração de relatórios e gráficos visuais
+ **Tech:** Shell
+
 ### ✅ [adhd-time-tracker-bash](https://github.com/lcnjrj/adhd-time-tracker-bash)
 Sistema de rastreamento de tarefas para pessoas com ADHD/TDAH 🧠 - suporta atividades offline com SQLite e iCalendar
  **Tech:** Shell, SQLite

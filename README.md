@@ -1,13 +1,15 @@
 # 👋 Olá! Sou a Lu Faria
 
-**Autodidata Administradora de Sistemas Linux → Engenheira DevOps**  
-🐧 Automatizando infraestrutura com Shell & Python | 🚀 Construindo sistemas escaláveis
+**Autodidata**
+Linux power user há 18+ anos. Criadora de ferramentas de automação em Shell/Python para uso pessoal e comunitário. Buscando primeira oportunidade formal.
+Oportunidade em Administradora de Sistemas Linux → Engenheira DevOps.  
+🐧 Automatizando infraestrutura com Shell | 🚀 
 
 ---
 
 ## 🔧 Sobre Mim
 
-Estou em transição da administração de sistemas Linux para Engenharia DevOps. Power User, passei 12 anos automatizando ambientes Linux, criando scripts em shell, e agora expandindo para práticas modernas de DevOps com Python, GitHub Actions.
+Estou em transição procurando oportunidade em administração de sistemas Linux, Engenharia DevOps. Como Power User, passei 12 anos automatizando ambientes Linux, criando scripts em shell, e agora expandindo para práticas modernas de GitHub Actions. Estudando DevOps com Python.
 
 - 🐧 **Entusiasta Linux** (Lubuntu no dia a dia)
 - 🤖 **Foco em automação** - de scripts shell a ferramentas Python
@@ -61,17 +63,10 @@ Coleção curada de anotações de estudo e recursos para desenvolvimento web (H
 
 ---
 
-## 📊 Estatísticas GitHub
 
-![Estatísticas GitHub da Lu](https://github-readme-stats.vercel.app/api?username=lcnjrj&show_icons=true&theme=radical&hide=contribs&locale=pt-br)
+## 🎓 Certificados & Aprendizado
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lcnjrj&layout=compact&theme=radical&locale=pt-br)
-
----
-
-## 🎓 Certificações & Aprendizado
-
-- 🔹 **DIO Pro** - Trilha Full Stack Development (2025)
+- 🔹 **DIO Pro** 
 - 🔹 **Alura** - Python, Dart, Git/GitHub
 - 🔹 **LinkedIn Learning** - DevOps, Liderança, Comunicação
 
@@ -80,9 +75,8 @@ Coleção curada de anotações de estudo e recursos para desenvolvimento web (H
 ```python
 class FocoAtual:
     def __init__(self):
-        self.aprendendo = ["Docker", "Python APIs", "CI/CD", "Terraform"]
+        self.aprendendo = ["Docker", "Python APIs" ]
         self.construindo = "Ferramenta de monitoramento com Python + Docker"
-        self.lendo = "Projeto Fênix (DevOps)"
         self.objetivo = "Vaga como Engenheira DevOps até meados de 2026"
     
     def status(self):

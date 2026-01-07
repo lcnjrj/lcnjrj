@@ -1,13 +1,13 @@
 # 👋 Olá! Sou a Lu Faria
 
-**Administradora de Sistemas Linux → Engenheira DevOps**  
+**Autodidata Administradora de Sistemas Linux → Engenheira DevOps**  
 🐧 Automatizando infraestrutura com Shell & Python | 🚀 Construindo sistemas escaláveis
 
 ---
 
 ## 🔧 Sobre Mim
 
-Estou em transição da administração de sistemas Linux para Engenharia DevOps. Passei 12 anos automatizando ambientes Linux, criando scripts em shell, e agora expandindo para práticas modernas de DevOps com Python, GitHub Actions.
+Estou em transição da administração de sistemas Linux para Engenharia DevOps. Power User, passei 12 anos automatizando ambientes Linux, criando scripts em shell, e agora expandindo para práticas modernas de DevOps com Python, GitHub Actions.
 
 - 🐧 **Entusiasta Linux** (Lubuntu no dia a dia)
 - 🤖 **Foco em automação** - de scripts shell a ferramentas Python

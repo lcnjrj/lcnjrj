@@ -54,7 +54,7 @@ Ferramenta de produtividade baseada em terminal implementando a Técnica Pomodor
 
 ### ✅ [Gerenciador de Tarefas Terminal](https://github.com/lcnjrj/taskManagerTerminal)
 Sistema de gerenciamento de tarefas via linha de comando com operações CRUD. Demonstra manipulação de arquivos, persistência de dados e design de UI para terminal.  
-**Tech:** [Linguagem usada], File I/O, CLI
+"Tech: Shell/Bash, File I/O, CLI"
 
 ### 📚 [Hub de Recursos de Estudo](https://github.com/lcnjrj/Hub-de-Estudos-Frontend)
 Coleção curada de anotações de estudo e recursos para desenvolvimento web (HTML, CSS, JavaScript, React, Git). Base de conhecimento organizada para referência rápida.  

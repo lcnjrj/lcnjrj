@@ -1,8 +1,7 @@
 # 👋 Olá! Sou a Lu Faria
 
 **Autodidata**
-Linux power user há 18+ anos. Criadora de ferramentas de automação em Shell/Python para uso pessoal e comunitário. Buscando primeira oportunidade formal.
-Oportunidade em Administradora de Sistemas Linux → Engenheira DevOps.  
+Linux power user há 18+ anos. Criadora de ferramentas de automação em Shell/Python para uso pessoal e comunitário.Estou em transição para Engenharia DevOps, buscando primeira oportunidade formal em administração de sistemas Linux ou SRE.
 🐧 Automatizando infraestrutura com Shell | 🚀 
 
 ---

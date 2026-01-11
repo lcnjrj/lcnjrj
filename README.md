@@ -56,9 +56,10 @@ Ferramenta de produtividade baseada em terminal implementando a Técnica Pomodor
 Sistema de gerenciamento de tarefas via linha de comando com operações CRUD. Demonstra manipulação de arquivos, persistência de dados e design de UI para terminal.  
 "Tech: Shell/Bash, File I/O, CLI"
 
-### 📚 [Hub de Recursos de Estudo](https://github.com/lcnjrj/Hub-de-Estudos-Frontend)
-Coleção curada de anotações de estudo e recursos para desenvolvimento web (HTML, CSS, JavaScript, React, Git). Base de conhecimento organizada para referência rápida.  
-**Tech:** HTML, CSS, JavaScript, GitHub Pages
+### ✅ [Relatório de Liga/Desliga do Sistema (ETL com Python)](https://github.com/lcnjrj/RelatorioLigaDesligadoSistema)
+Este projeto implementa um pipeline ETL completo em Python, executado em ambiente Linux (Lubuntu), para coletar, transformar, armazenar e analisar dados de liga/desliga (boots) do sistema a partir do systemd-journald.
+
+
 
 ---
 

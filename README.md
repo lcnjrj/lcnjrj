@@ -8,7 +8,7 @@ Linux power user há 18+ anos. Criadora de ferramentas de automação em Shell/P
 
 ## 🔧 Sobre Mim
 
-Estou em transição procurando oportunidade em administração de sistemas Linux, Engenharia DevOps. Como Power User, passei 12 anos automatizando ambientes Linux, criando scripts em shell, e agora expandindo para práticas modernas de GitHub Actions. Estudando DevOps com Python.
+Estou em transição procurando oportunidade em administração de sistemas Linux, Engenharia DevOps. Como Power User, automatizo ambientes Linux, criando scripts em shell, e agora expandindo para práticas modernas de GitHub Actions. Estudando DevOps com Python.
 
 - 🐧 **Entusiasta Linux** (Lubuntu no dia a dia)
 - 🤖 **Foco em automação** - de scripts shell a ferramentas Python

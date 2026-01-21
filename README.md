@@ -5,12 +5,12 @@ Buscando formalizar expertise em DevOps/SRE
 Após mais de duas décadas automatizando infraestrutura Linux para uso pessoal ( hobby ), estou em transição profissional para TI
 
 🎯 Meta 2026: Primeira posição formal na área de TI
-
 TRABALHO REMOTO: Busco experiência com colaboração remota, e comunicação assíncrona. 
 Possuo:
 Internet estável (fibra óptica).
 Ambiente de trabalho silencioso e ergonômico.
 Disciplina para autogestão.
+
 - 
 🐧**Entusiasta Linux** (Linux no dia a dia desde 2000 com o word perfec linux depois, kurumin, etc)
 - 🤖 **Foco em automação** - de scripts shell a ferramentas Python

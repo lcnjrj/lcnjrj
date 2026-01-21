@@ -1,26 +1,35 @@
-# 👋 Olá! Sou a Lu Faria
+Autodidata Linux power user há 25+ anos 
+Entusiasta em automação Shell/Python  
+Buscando formalizar expertise em DevOps/SRE
 
-**Autodidata**
-Linux power user há 18+ anos | Especialista em automação 
-Shell/Python | Buscando formalizar expertise em DevOps/SRE
+Após mais de duas décadas automatizando infraestrutura Linux para uso pessoal ( hobby ), estou em transição profissional para TI
 
-Após quase duas décadas automatizando infraestrutura Linux 
-para uso pessoal e contribuições comunitárias, estou em 
-transição profissional para Engenharia DevOps.
+🎯 Meta 2026: Primeira posição formal na área de TI
 
-🎯 Meta 2026: Primeira posição formal como DevOps Jr/SRE
-
----
-
-## 🔧 Sobre Mim
-
-- 🐧 **Entusiasta Linux** (Lubuntu no dia a dia)
+TRABALHO REMOTO: Busco experiência com colaboração remota, e comunicação assíncrona. 
+Possuo:
+Internet estável (fibra óptica).
+Ambiente de trabalho silencioso e ergonômico.
+Disciplina para autogestão.
+- 
+🐧**Entusiasta Linux** (Linux no dia a dia desde 2000 com o word perfec linux depois, kurumin, etc)
 - 🤖 **Foco em automação** - de scripts shell a ferramentas Python
 - 🔄 **Aprendendo:** Docker, Kubernetes, Terraform,
 - 🎯 **Objetivo:** Vagas júnior DevOps/SRE em empresas remote-first
 - 🎨 **Hobbies:** Desenho em pastel e carvão, guitarra, flauta, leitura ao vivo de livros e voice over
 
----
+APRENDIZADO CONTÍNUO:- Implementando workflows CI/CD com GitHub Actions
+Escrevendo documentação técnica e compartilhando aprendizados 
+
+Inglês: Avançado (leitura de documentação técnica, assistir BBC sem legendas). 
+
+💼 GitHub: github.com/lcnjrj
+
+Após os cursos de WebDesign (2001), na DeskGraphick e os de Curso Manutenção de computadores do Abel Alves (2001) trabalhei auxiliado pessoas que queriam montar um computador personalizado mas não sabiam como. 
+Depois trabalhei passando para cds fitas k7 e discos de vinil e fazendo backups de sistemas windows através do sistema linux. 
+Trabalhei por um periodo fazendo pesquisas e clipping e digitando trabalhos escolares e outros textos.
+
+Me interessei por programação quando mudei pro linux e começei a criar scripts em shell, compilar o kernel do linux ( na epóca corel wordperfect linux,  conectiva e depois kurumin ).  Testei debian, Slackware, ubuntu e hoje uso lubuntu ( é leve gosto muito do lxqt e kde ), cheguei a fazer um curso de webdesign ( com programas da Macromedia ) mas arte e desenho não era meu forte e
 
 ## 🛠️ Stack Tecnológica
 

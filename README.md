@@ -1,14 +1,18 @@
 # 👋 Olá! Sou a Lu Faria
 
 **Autodidata**
-Linux power user há 18+ anos. Criadora de ferramentas de automação em Shell/Python para uso pessoal e comunitário.Estou em transição para Engenharia DevOps, buscando primeira oportunidade formal em administração de sistemas Linux ou SRE.
-🐧 Automatizando infraestrutura com Shell | 🚀 
+Linux power user há 18+ anos | Especialista em automação 
+Shell/Python | Buscando formalizar expertise em DevOps/SRE
+
+Após quase duas décadas automatizando infraestrutura Linux 
+para uso pessoal e contribuições comunitárias, estou em 
+transição profissional para Engenharia DevOps.
+
+🎯 Meta 2026: Primeira posição formal como DevOps Jr/SRE
 
 ---
 
 ## 🔧 Sobre Mim
-
-Estou em transição procurando oportunidade em administração de sistemas Linux, Engenharia DevOps. Como Power User, automatizo ambientes Linux, criando scripts em shell, e agora expandindo para práticas modernas de GitHub Actions. Estudando DevOps com Python.
 
 - 🐧 **Entusiasta Linux** (Lubuntu no dia a dia)
 - 🤖 **Foco em automação** - de scripts shell a ferramentas Python

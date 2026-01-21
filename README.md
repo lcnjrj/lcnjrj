@@ -1,10 +1,14 @@
 Autodidata Linux power user há 25+ anos 
 Entusiasta em automação Shell/Python  
-Buscando formalizar expertise em DevOps/SRE
-
 Após mais de duas décadas automatizando infraestrutura Linux para uso pessoal ( hobby ), estou em transição profissional para TI
 
-🎯 Meta 2026: Primeira posição formal na área de TI
+🎯 Meta 2026: Primeira posição formal na área de TI, formalizar expertise em DevOps/SRE
+
+APRENDIZADO CONTÍNUO:- Implementando workflows CI/CD com GitHub Actions
+Escrevendo documentação técnica e compartilhando aprendizados 
+
+Inglês: Avançado (leitura de documentação técnica, assistir BBC sem legendas). 
+
 TRABALHO REMOTO: Busco experiência com colaboração remota, e comunicação assíncrona. 
 Possuo:
 Internet estável (fibra óptica).
@@ -17,13 +21,6 @@ Disciplina para autogestão.
 - 🔄 **Aprendendo:** Docker, Kubernetes, Terraform,
 - 🎯 **Objetivo:** Vagas júnior DevOps/SRE em empresas remote-first
 - 🎨 **Hobbies:** Desenho em pastel e carvão, guitarra, flauta, leitura ao vivo de livros e voice over
-
-APRENDIZADO CONTÍNUO:- Implementando workflows CI/CD com GitHub Actions
-Escrevendo documentação técnica e compartilhando aprendizados 
-
-Inglês: Avançado (leitura de documentação técnica, assistir BBC sem legendas). 
-
-💼 GitHub: github.com/lcnjrj
 
 Após os cursos de WebDesign (2001), na DeskGraphick e os de Curso Manutenção de computadores do Abel Alves (2001) trabalhei auxiliado pessoas que queriam montar um computador personalizado mas não sabiam como. 
 Depois trabalhei passando para cds fitas k7 e discos de vinil e fazendo backups de sistemas windows através do sistema linux. 
@@ -44,8 +41,6 @@ Me interessei por programação quando mudei pro linux e começei a criar script
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-
----
 
 ## 📌 Projetos em Destaque
 
@@ -74,28 +69,9 @@ Este projeto implementa um pipeline ETL completo em Python, executado em ambient
 
 
 
----
-
 
 ## 🎓 Certificados & Aprendizado
 
-- 🔹 **DIO Pro** 
+- 🔹 **DIO** 
 - 🔹 **Alura** - Python, Dart, Git/GitHub
 - 🔹 **LinkedIn Learning** - DevOps, Liderança, Comunicação
-
-## 💡 Atualmente
-
-```python
-class FocoAtual:
-    def __init__(self):
-        self.aprendendo = ["Docker", "Python APIs" ]
-        self.construindo = "Ferramenta de monitoramento com Python + Docker"
-        self.objetivo = "Vaga como Engenheira DevOps até meados de 2026"
-    
-    def status(self):
-        return "🚀 Buscando ativamente oportunidades júnior DevOps/Backend"
-```
-
----
-
-⭐️ *"Do hardware ao software, dos scripts aos sistemas - construindo o futuro, uma automação por vez."*

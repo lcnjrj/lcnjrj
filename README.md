@@ -27,6 +27,7 @@ Depois trabalhei passando para cds fitas k7 e discos de vinil e fazendo backups 
 Trabalhei por um periodo fazendo pesquisas e clipping e digitando trabalhos escolares e outros textos.
 
 Me interessei por programação quando mudei pro linux e começei a criar scripts em shell, compilar o kernel do linux ( na epóca corel wordperfect linux,  conectiva e depois kurumin ).  Testei debian, Slackware, ubuntu e hoje uso lubuntu ( é leve gosto muito do lxqt e kde ), cheguei a fazer um curso de webdesign ( com programas da Macromedia ) mas arte e desenho não era meu forte e
+e disseram que programação não era para mim. Resolvi tentar outra vez.
 
 ## 🛠️ Stack Tecnológica
 

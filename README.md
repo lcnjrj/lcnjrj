@@ -15,7 +15,7 @@ Internet estável (fibra óptica).
 Ambiente de trabalho silencioso e ergonômico.
 Disciplina para autogestão.
 
-- 
+
 🐧**Entusiasta Linux** (Linux no dia a dia desde 2000 com o word perfec linux depois, kurumin, etc)
 - 🤖 **Foco em automação** - de scripts shell a ferramentas Python
 - 🔄 **Aprendendo:** Docker, Kubernetes, Terraform,
